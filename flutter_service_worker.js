@@ -15,8 +15,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "305bae1845b911439ed34a993fcbf7f9
 "assets/assets/paymentMethod.png": "e1f845a074bbe345a6dcc55f365a260b",
 "assets/assets/visaPayment.png": "f5514b5baa5496024f69fb4cc0449a88",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "9c147b9621dcec40f9f4fc1cf00ab7be",
-"assets/NOTICES": "4b23157992f61dbd5185552c0cf1bd84",
+"assets/fonts/MaterialIcons-Regular.otf": "04f909088acf7847672519dea4507fb5",
+"assets/NOTICES": "c8f1ab97895c29af8cb031bfb9a2081d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "738255d00768497e86aa4ca510cce1e1",
@@ -31,16 +31,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "305bae1845b911439ed34a993fcbf7f9
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "1b5814755b19f68c6960e4c6c5be6ffe",
+"flutter_bootstrap.js": "72819cfdd91011467b0b57a358a3c22d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "60a455911e407d9c61f6dee492194b64",
-"/": "60a455911e407d9c61f6dee492194b64",
-"main.dart.js": "4e7f297622ab47c925681782c91fca9e",
-"manifest.json": "32d66f7cc111b5cf2484c83f930de53c",
-"version.json": "840916971e457794c8cd01b19307a90a"};
+"index.html": "02eef11c3cefa5211f78ed2dec2adc4a",
+"/": "02eef11c3cefa5211f78ed2dec2adc4a",
+"main.dart.js": "ff5c4db2af64bc5c567b22957f72cf84",
+"manifest.json": "c8246e22780506ad7ce787b5f20974ff",
+"version.json": "9457e05811aa09bb208ce85ad1bfecbb"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",

@@ -1,6 +1,6 @@
 {
-    "name": "bolt_app",
-    "short_name": "bolt_app",
+    "name": "maple_customer_app",
+    "short_name": "maple_customer_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
