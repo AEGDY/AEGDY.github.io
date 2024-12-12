@@ -15599,8 +15599,8 @@ apI:function apI(a){this.a=a},
 arq:function arq(a){this.a=a},
 aqL:function aqL(){},
 Gn:function Gn(){},
-afY(a,b,c,d,e){var s=null,r=a.a.a
-return new A.BS(a,s,new A.afZ(b,d,s,s,s,s,s,s,e,s,s,B.NT,!1,s,s,!1,s,"\u2022",!1,!0,s,s,!0,s,c,s,!1,s,s,!1,s,s,s,s,s,s,2,s,s,s,s,B.Dv,s,s,s,s,s,s,s,!0,s,A.aTG(),s,s,s,s,s,B.dQ,B.co,B.aG,s,B.at,!0,!0),r,!0,B.zz,s,s)},
+afY(a,b,c,d,e,f){var s=null,r=a.a.a
+return new A.BS(a,s,new A.afZ(b,d,s,s,s,s,s,s,f,s,s,B.NT,!1,s,s,!1,s,"\u2022",!1,!0,s,s,!0,s,c,s,!1,s,s,!1,s,s,e,s,s,s,2,s,s,s,s,B.Dv,s,s,s,s,s,s,s,!0,s,A.aTG(),s,s,s,s,s,B.dQ,B.co,B.aG,s,B.at,!0,!0),r,!0,B.zz,s,s)},
 aNL(a,b){return A.aHY(b)},
 BS:function BS(a,b,c,d,e,f,g,h){var _=this
 _.z=a
@@ -86347,7 +86347,7 @@ a2=A.bY(A.b([a2,a3,a4,a5,a6,a7,A.a4(b1,A.cA(A.at("100 EGP",b1,b1,b1,A.aH(b1,b1,a
 a3=A.ar(b1,20,b1)
 a4=A.bH(20)
 a5=A.ja(A.P(m,158,158,158))
-a4=A.a4(b1,A.afY(b0.w,A.Ki(b1,B.ff,b1,b1,b1,b1,b1,b1,!0,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,"Custom tip",b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1),1,new A.amW(b0),B.f_),B.h,b1,b1,new A.b7(b1,b1,a5,a4,b1,b1,B.x),b1,50,b1,b1,b1,b1,200)
+a4=A.a4(b1,A.afY(b0.w,A.Ki(b1,B.ff,b1,b1,b1,b1,b1,b1,!0,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,"Custom tip",b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1),1,b1,new A.amW(b0),B.f_),B.h,b1,b1,new A.b7(b1,b1,a5,a4,b1,b1,B.x),b1,50,b1,b1,b1,b1,200)
 a5=A.ar(b1,20,b1)
 a1=b0.x?A.at("Invalid amount",b1,b1,b1,A.aH(b1,b1,B.hl,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,!0,b1,b1,b1,b1,b1,b1,b1,b1),b1,b1):A.a4(b1,b1,B.h,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1)
 a6=A.ar(b1,5,b1)
@@ -86655,7 +86655,7 @@ e=A.bY(A.b([h,g,f,e,A.eB(q,A.ec(B.ee,i<5?B.b7:B.e0,q,35),new A.ane(r),q,q)],d),B
 f=A.ar(q,20,q)
 g=A.bH(10)
 h=A.ja(B.b7)
-g=A.a4(q,A.afY(r.f,A.Ki(q,B.ff,q,B.Do,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,A.aH(q,q,q,q,q,q,q,q,q,q,q,14,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),"How was your experience?",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),3,q,B.bl),B.h,q,q,new A.b7(q,q,h,g,q,q,B.x),q,80,q,q,q,q,300)
+g=A.a4(q,A.afY(r.f,A.Ki(q,B.ff,q,B.Do,q,q,q,q,!0,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,A.aH(q,q,q,q,q,q,q,q,q,q,q,14,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),"How was your experience?",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),3,q,q,B.bl),B.h,q,q,new A.b7(q,q,h,g,q,q,B.x),q,80,q,q,q,q,300)
 h=A.ar(q,40,q)
 p=A.az(a,q,p).w
 s=A.bH(30)
@@ -86740,7 +86740,7 @@ p=A.bY(A.b([p,o,n,m,l,k,A.a4(g,A.cA(A.at("100 EGP",g,g,g,A.aH(g,g,q?B.k:B.j,g,g,
 o=A.ar(g,20,g)
 n=A.bH(20)
 m=A.ja(A.P(a2,158,158,158))
-n=A.a4(g,A.afY(h.x,A.Ki(g,B.ff,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,"Custom tip",g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g),1,new A.anJ(h),B.f_),B.h,g,g,new A.b7(g,g,m,n,g,g,B.x),g,50,g,g,g,g,200)
+n=A.a4(g,A.afY(h.x,A.Ki(g,B.ff,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,"Custom tip",g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g),1,new A.anJ(h),g,B.f_),B.h,g,g,new A.b7(g,g,m,n,g,g,B.x),g,50,g,g,g,g,200)
 m=A.ar(g,20,g)
 q=h.w?A.at("Invalid amount",g,g,g,A.aH(g,g,B.hl,g,g,g,g,g,g,g,g,g,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g):A.a4(g,g,B.h,g,g,g,g,g,g,g,g,g,g)
 l=A.ar(g,5,g)
@@ -86880,7 +86880,7 @@ a=A.ar(m,30,m)
 s=t.nA
 a0=A.rK(new A.anp(),A.lJ(),s)
 b=A.ar(m,10,m)
-r=A.a4(m,A.bY(A.b([A.at("Enter custom amount",m,m,m,A.aH(m,m,m,m,m,m,m,m,m,m,m,m,m,m,B.K,m,m,!0,m,m,m,m,m,m,m,m),m,m),A.a4(m,A.afY(n.r,A.Ki(m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,A.aH(m,m,m,m,m,m,m,m,m,m,m,14,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),"Amount",m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m),1,m,B.bl),B.h,m,m,m,m,40,m,m,m,m,100)],a1),B.u,B.bY,B.v),B.h,m,m,m,m,m,new A.aI(30,0,30,0),m,m,m,m)
+r=A.a4(m,A.bY(A.b([A.at("Enter custom amount",m,m,m,A.aH(m,m,m,m,m,m,m,m,m,m,m,m,m,m,B.K,m,m,!0,m,m,m,m,m,m,m,m),m,m),A.a4(m,A.afY(n.r,A.Ki(m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,A.aH(m,m,m,m,m,m,m,m,m,m,m,14,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),"Amount",m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m),1,m,m,B.bl),B.h,m,m,m,m,40,m,m,m,m,100)],a1),B.u,B.bY,B.v),B.h,m,m,m,m,m,new A.aI(30,0,30,0),m,m,m,m)
 d=A.ok(A.P(d,158,158,158),0.5)
 q=A.dH(A.a4(m,m,B.h,m,m,m,m,m,m,m,m,m,m))
 p=n.w?A.a4(m,m,B.h,m,m,m,m,m,m,m,m,m,m):A.c_(A.at("Please enter a valid amount",m,m,m,A.aH(m,m,B.hl,m,m,m,m,m,m,m,m,13,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m),m,m)
