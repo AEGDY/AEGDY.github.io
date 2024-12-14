@@ -86125,7 +86125,7 @@ s=A.aq(h,h,5)
 r=A.Y(h,A.ai(d,h,h,h,A.aw(h,h,h,h,h,h,h,h,h,h,h,13,h,h,B.J,h,h,!0,h,h,h,h,h,h,h,h),h,h),B.e,B.tG,h,h,h,h,h,h,h,h,h)
 q=A.d9(A.Y(h,h,B.e,h,h,h,h,h,h,h,h,h,h))
 p=A.Y(h,A.ai(A.h(f)+" EGP",h,h,h,h,h,h),B.e,h,h,h,h,h,h,h,h,h,h)
-o=A.aq(h,h,20)
+o=A.aq(h,h,10)
 n=A.Q(51,158,158,158)
 m=A.bN(20)
 l=A.bN(20)
@@ -86204,7 +86204,7 @@ p.n(0,j,J.at(J.at(r.h(s,i),l),j))
 o.n(0,J.at(J.at(r.h(s,i),l),h),0)
 n.n(0,J.at(J.at(r.h(s,i),l),h),r.h(s,"item"+l));++l
 m.push(p)}q.id=!1}o=A.ax(a,k,t.w).w
-return A.Y(k,A.azN(new A.amE(q,b),J.cg(r.h(s,i)),new A.Lf(k),!0),B.e,B.eJ,k,k,k,k,k,k,k,k,o.a.a*0.9)}}return A.dy(A.b([A.h0(B.m,4,k)],t.p),B.q,B.a1,B.r)},
+return A.Y(k,A.azN(new A.amE(q,b),J.cg(r.h(s,i)),new A.Lf(k),!0),B.e,B.eJ,k,k,k,k,k,k,k,k,o.a.a)}}return A.dy(A.b([A.h0(B.m,4,k)],t.p),B.q,B.a1,B.r)},
 $S:59}
 A.amE.prototype={
 $2(a,b){var s,r="items",q=this.a,p=this.b,o=p.b
