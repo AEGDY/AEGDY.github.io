@@ -86086,8 +86086,8 @@ q=J.ar(J.ar(s.h(m,o),b),"name")
 p=J.ar(J.ar(s.h(m,o),b),"price")
 m=J.cc(J.ar(J.ar(s.h(m,o),b),"price"),J.ar(J.ar(s.h(m,o),b),"amount"))
 if(r===0)m=A.X(n,n,B.e,n,n,n,n,n,n,n,n,n,n)
-else{s=A.R(51,158,158,158)
-m=A.X(n,A.bz(A.b([A.X(n,A.cd(A.a5(A.h(r),n,n,n,A.ao(n,n,n,n,n,n,n,n,n,n,n,n,n,n,B.D,n,n,!0,n,n,n,n,n,n,n,n),n,n),n,n),B.e,n,n,new A.ba(s,n,n,n,n,n,B.x),n,25,n,n,n,n,25),A.ah(n,n,5),A.X(n,A.a5(q,n,n,n,A.ao(n,n,n,n,n,n,n,n,n,n,n,13,n,n,B.D,n,n,!0,n,n,n,n,n,n,n,n),n,n),B.e,n,n,n,n,n,n,n,n,n,n),A.dr(A.X(n,n,B.e,n,n,n,n,n,n,n,n,n,n)),A.ah(A.a5(A.h(p)+" EGP",n,n,n,A.ao(n,n,B.B,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n,70),A.ah(A.a5(A.h(m)+" EGP",n,n,n,n,n,n),n,70)],t.p),B.p,B.a_,B.q),B.e,n,n,n,n,n,new A.aF(0,0,0,5),n,n,n,n)}return m},
+else{s=A.R(38,158,158,158)
+m=A.X(n,A.bz(A.b([A.X(n,A.cd(A.a5(A.h(r),n,n,n,A.ao(n,n,n,n,n,n,n,n,n,n,n,n,n,n,B.D,n,n,!0,n,n,n,n,n,n,n,n),n,n),n,n),B.e,n,n,new A.ba(s,n,n,n,n,n,B.x),n,25,n,n,n,n,25),A.ah(n,n,5),A.X(n,A.a5(q,n,n,n,A.ao(n,n,n,n,n,n,n,n,n,n,n,13,n,n,B.n,n,n,!0,n,n,n,n,n,n,n,n),n,n),B.e,n,n,n,n,n,n,n,n,n,n),A.dr(A.X(n,n,B.e,n,n,n,n,n,n,n,n,n,n)),A.ah(A.a5(A.h(p)+" EGP",n,n,n,A.ao(n,n,B.B,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n,70),A.ah(A.a5(A.h(m)+" EGP",n,n,n,n,n,n),n,70)],t.p),B.p,B.a_,B.q),B.e,n,n,n,n,n,new A.aF(0,0,0,5),n,n,n,n)}return m},
 $S:190}
 A.aig.prototype={
 $0(){this.a.ac5(this.b)},
@@ -86262,10 +86262,10 @@ a6=A.bN(30)
 q=A.cd(A.X(b0,A.cR(A.a5("Confirm",b0,b0,b0,A.ao(b0,b0,B.j,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,b0,!0,b0,b0,b0,b0,b0,b0,b0,b0),b0,b0),new A.amN(a9),b0),B.e,b0,b0,new A.ba(a5,b0,b0,a6,b0,b0,B.x),b0,50,b0,b0,b0,b0,q.a.a*0.9),b0,b0)}return A.pV(r,A.q6(A.X(b0,A.d9(A.b([o,n,l,j,h,i,k,g,e,d,c,b,a,a0,m,a1,f,a2,a3,a4,q,A.ah(b0,10,b0),A.bz(A.b([A.a5("Pay securely with ",b0,b0,b0,A.ao(b0,b0,$.cE(),b0,b0,b0,b0,b0,b0,b0,b0,12,b0,b0,B.D,b0,b0,!0,b0,b0,b0,b0,b0,b0,b0,b0),b0,b0),A.a5("maple",b0,b0,b0,A.ao(b0,b0,$.cE(),b0,b0,b0,b0,b0,b0,b0,b0,14,b0,b0,B.D,b0,b0,!0,b0,b0,b0,b0,b0,b0,b0,b0),b0,b0)],s),B.p,B.Y,B.q),A.ah(b0,30,b0)],s),B.e4,B.a_,B.q),B.e,b0,b0,b0,b0,b0,new A.aF(10,10,10,10),b0,b0,b0,p.a.a),B.co,B.aj))},
 aex(a,b,c,d,e,a0,a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null
 if(c===0)s=A.X(f,f,B.e,f,f,f,f,f,f,f,f,f,f)
-else{s=A.R(51,158,158,158)
+else{s=A.R(38,158,158,158)
 s=A.X(f,A.cd(A.a5(""+c,f,f,f,A.ao(f,f,f,f,f,f,f,f,f,f,f,f,f,f,B.D,f,f,!0,f,f,f,f,f,f,f,f),f,f),f,f),B.e,f,f,new A.ba(s,f,f,f,f,f,B.x),f,25,f,f,f,f,25)
 r=A.ah(f,f,5)
-q=A.X(f,A.a5(d,f,f,f,A.ao(f,f,f,f,f,f,f,f,f,f,f,13,f,f,B.D,f,f,!0,f,f,f,f,f,f,f,f),f,f),B.e,f,f,f,f,f,f,f,f,f,f)
+q=A.X(f,A.a5(d,f,f,f,A.ao(f,f,f,f,f,f,f,f,f,f,f,13,f,f,B.n,f,f,!0,f,f,f,f,f,f,f,f),f,f),B.e,f,f,f,f,f,f,f,f,f,f)
 p=A.dr(A.X(f,f,B.e,f,f,f,f,f,f,f,f,f,f))
 o=A.X(f,A.a5(A.h(a0)+" EGP",f,f,f,f,f,f),B.e,f,f,f,f,f,f,f,f,f,f)
 n=A.ah(f,f,10)
