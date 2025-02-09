@@ -86119,7 +86119,7 @@ $.ats=!1
 this.d[0].WZ()
 s=A.wk(a,!1)
 r=A.av(a,q,t.w).w
-return A.n3(s,A.na(A.S(q,A.kP(new A.aiz(this),A.ib(),t.nA),B.e,q,q,q,q,2000,new A.ay(10,10,10,10),q,q,q,r.a.a),B.c6,B.ah))},
+return A.n3(s,A.na(A.S(q,A.kP(new A.aiz(this),A.ib(),t.nA),B.e,q,q,q,q,1000,new A.ay(10,10,10,10),q,q,q,r.a.a),B.c6,B.ah))},
 alv(a,b,c,d){var s,r,q,p,o,n,m,l,k,j=null
 for(s=J.a9(d),r=0,q=0;q<s.gB(d);){if(J.atP(J.ag(s.h(d,q),"amount"),0))++r;++q}p=t.w
 o=this.c
@@ -87159,7 +87159,7 @@ o=A.a0(m,20,m)
 if(n.x){k=A.av(a2,m,k).w
 s=A.bu(30)
 k=A.bw(A.S(m,A.bV(A.bs(A.b([A.ed(A.S(m,m,B.e,m,m,m,m,m,m,m,m,m,m)),A.Z("Processing payment...",m,m,m,A.a5(m,m,B.aH,m,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m),A.ed(A.S(m,m,B.e,m,m,m,m,m,m,m,m,m,m)),A.S(m,A.fj(B.aH,2),B.e,m,m,m,m,30,m,m,m,m,30)],a1),B.p,B.R,B.n),new A.ao7(),m),B.e,m,m,new A.aW(B.D,m,m,s,m,m,B.u),m,50,m,m,m,m,k.a.a*0.9),m,m)}else k=A.bw(A.kP(new A.ao8(n),A.ib(),s),m,m)
-return A.n3(l,A.na(A.S(m,A.c2(A.b([g,f,e,c,a,a0,b,r,d,q,p,o,k,A.a0(m,10,m),A.Yx(),A.a0(m,10,m)],a1),B.p,B.J,B.n),B.e,m,m,m,m,j.a.b-i.fx.b,m,m,m,m,h.a.a),B.c6,B.ah))}}
+return A.n3(l,A.na(A.S(m,A.c2(A.b([g,f,e,c,a,a0,b,r,d,q,p,o,k,A.a0(m,10,m),A.Yx(),A.a0(m,80,m)],a1),B.p,B.J,B.n),B.e,m,m,m,m,j.a.b-i.fx.b,m,m,m,m,h.a.a),B.c6,B.ah))}}
 A.anY.prototype={
 $0(){this.a.x=!0},
 $S:0}
@@ -87306,7 +87306,7 @@ p=A.av(a8,a7,p).w
 d=$.d1()
 c=A.bu(30)
 p=A.bw(A.S(a7,A.bV(A.Z("Confirm",a7,a7,a7,A.a5(a7,a7,B.j,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,a7,!0,a7,a7,a7,a7,a7,a7,a7,a7),a7,a7),new A.aqf(),a7),B.e,a7,a7,new A.aW(d,a7,a7,c,a7,a7,B.u),a7,50,a7,a7,a7,a7,p.a.a*0.9),a7,a7)
-return A.c2(A.b([q,o,m,n,l,k,j,h,g,s,r,f,e,a,b,a0,a2,a1,a5,p,A.a0(a7,10,a7),A.Yx(),A.a0(a7,30,a7)],i),B.bD,B.J,B.n)}}return A.c2(A.b([A.fj(B.k,4)],t.p),B.p,B.R,B.n)},
+return A.c2(A.b([q,o,m,n,l,k,j,h,g,s,r,f,e,a,b,a0,a2,a1,a5,p,A.a0(a7,10,a7),A.Yx(),A.a0(a7,50,a7)],i),B.bD,B.J,B.n)}}return A.c2(A.b([A.fj(B.k,4)],t.p),B.p,B.R,B.n)},
 $S:42}
 A.aqa.prototype={
 $0(){A.fD(this.a,"/menu",t.X)},
