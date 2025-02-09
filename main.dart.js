@@ -86271,7 +86271,7 @@ if(s!=null){if(J.atP(J.ag(s,"amount_left"),0))$.qP=!1
 else $.qP=!0
 s=A.a0(a1,50,a1)
 r=A.ji(B.D,1)
-r=A.bw(A.S(a1,A.hH(a1,new A.r2("assets/chillislogonew2.png",a1,a1),a1,20),B.e,a1,a1,new A.aW(a1,a1,r,a1,a1,a1,B.ff),a1,150,a1,a1,a1,a1,150),a1,a1)
+r=A.bw(A.S(a1,A.hH(a1,new A.r2("assets/carlos.jpg",a1,a1),a1,20),B.e,a1,a1,new A.aW(a1,a1,r,a1,a1,a1,B.ff),a1,150,a1,a1,a1,a1,150),a1,a1)
 q=A.a0(a1,10,a1)
 p=t.p
 o=A.bs(A.b([A.S(a1,A.bV(A.kU("assets/fb.png",50,50),new A.alc(),a1),B.e,a1,a1,a1,a1,55,a1,a1,a1,a1,55),A.S(a1,A.bV(A.kU("assets/insta.png",50,50),new A.ald(),a1),B.e,a1,a1,a1,a1,55,a1,a1,a1,a1,55)],p),B.p,B.R,B.n)
